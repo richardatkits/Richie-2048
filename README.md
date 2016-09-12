@@ -12,7 +12,7 @@ Made just for fun! You can find it on the [App Store](https://itunes.apple.com/u
 
 An AI is added, thanks to [DJBen](https://github.com/DJBen)! Tap "Hint" to show hint (e.g. Move left/right/up/down); tap "Auto Run" to run AI automatically. Check it out in the `AI` branch. You can also check out [this demo video on YouTube](https://www.youtube.com/watch?v=GF0ANNPpF8E).
 
-Thanks to [ov3y](https://github.com/ov3y/2048-AI)'s Javascript version that gave me (DJBen, that is) inspiration.
+Thanks to [ov3y](https://github.com/ov3y/2048-AI)'s Javascript version that  me (DJBen, that is) inspiration.
 
 ### Issues and pending improvements
 
